@@ -984,7 +984,7 @@ entries:
     name: neuvector-ui-ext
     type: application
     urls:
-    - assets/neuvector-ui-ext-2.1.2.tgz
+    - assets/neuvector-ui-ext/neuvector-ui-ext-2.1.2.tgz
     version: 2.1.2
   - annotations:
       catalog.cattle.io/certified: rancher
